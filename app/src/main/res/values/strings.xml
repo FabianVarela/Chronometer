@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Chronometer</string>
+    <string name="time">00 : 00 : 00</string>
+    <string name="textList">Show time list</string>
+    <string name="messageList">Can add only 5 registers.</string>
+    <string name="messageDelete">List delete successfully.</string>
+    <string name="menuListHistory">Clear history</string>
+
+    <string name="format_chronometer">%02d : %02d : %02d</string>
 </resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cronómetro</string>
+    <string name="time">00 : 00 : 00</string>
+    <string name="textList">Ver listado de tiempos</string>
+    <string name="messageList">Puedes ingresar solo 5 registros.</string>
+    <string name="messageDelete">Lista eliminada correctamente.</string>
+    <string name="menuListHistory">Limpiar Historial</string>
+
+    <string name="format_chronometer">%02d : %02d : %02d</string>
+</resources>
